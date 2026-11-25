@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
